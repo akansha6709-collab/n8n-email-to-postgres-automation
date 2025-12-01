@@ -1,0 +1,4 @@
+order_id,customer_id,order_date,amount,product
+1001,200,2025-10-01,150.75,Widget-A
+1002,201,2025-10-02,299.00,Widget-B
+1003,200,2025-10-15,49.50,Widget-C
